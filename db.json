@@ -1,0 +1,24 @@
+{
+  "Videos":[
+    {
+      "Id":" ",
+      "YouTubeVideoId": "Lm2LELU0O04",
+      "Title":"String",
+      "Description_url":"",
+      "Description":"Text",
+      "Tags" :"Adding Stocks"
+    }
+  ],
+"Documents":[
+    {
+      "Id":" ",
+      "Document_url": "url",
+      "Type":"Document Type",
+      "Heading":"String",
+      "Date":"DateTime",
+      "Description_url":"",
+      "Description":"Text",
+      "Tags" :"Registration Tool"
+    }
+  ]
+}
