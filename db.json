@@ -15,7 +15,7 @@
       "Document_url": "url",
       "Type":"Document Type",
       "Heading":"String",
-      "Date":"2017-07-21T10:30:34",
+      "Date":"DateTime.now()",
       "Description_url":"",
       "Description":"Text",
       "Tags" :"Registration Tool"
