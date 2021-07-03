@@ -1,42 +1,73 @@
-{
-  "Videos":[
-    {
-      "Id":" ",
-      "YouTubeVideoId": "Lm2LELU0O04",
-      "Title":"String",
-      "Description_url":"",
-      "Description":"Text",
-      "Tags" :"Adding Stocks"
-    },
-    {
-      "Id":" ",
-      "YouTubeVideoId": "CT7BSUHbgCM",
-      "Title":"String",
-      "Description_url":"",
-      "Description":"Text",
-      "Tags" :"Adding Stocks"
-    }
-  ],
-"Documents":[
-    {
-      "Id":" ",
-      "Document_url": "url",
-      "Type":"Document Type",
-      "Heading":"String",
-      "Date":"2021-07-02 19:51:34.715454",
-      "Description_url":"",
-      "Description":"Text",
-      "Tags" :"Registration Tool"
-    },
-    {
-      "Id":" ",
-      "Document_url": "http://www.africau.edu/images/default/sample.pdf",
-      "Type":"Document Type",
-      "Heading":"String",
-      "Date":"2021-07-02 19:51:34.715454",
-      "Description_url":"",
-      "Description":"Text",
-      "Tags" :"Registration Tool"
-    }
-  ]
-}
+[
+  {
+    "Tag": "Registration",
+    "Videos":[
+      {
+        "Id":" ",
+        "YouTubeVideoId": "Lm2LELU0O04",
+        "Title":"String",
+        "Description_url":"",
+        "Description":"Text"
+      }
+    ],
+  "Documents":[
+      {
+        "Id":" ",
+        "Document_url": "url",
+        "Type":"Document Type",
+        "Heading":"String",
+        "Date":"DateTime",
+        "Description_url":"",
+        "Description":"Text"
+      }
+    ]
+  },
+
+  {
+    "Tag" : "Adding_Stocks",
+    "Videos":[
+      {
+        "Id":" ",
+        "YouTubeVideoId": "Lm2LELU0O04",
+        "Title":"String",
+        "Description_url":"",
+        "Description":"Text"
+      }
+    ],
+  "Documents":[
+      {
+        "Id":" ",
+        "Document_url": "url",
+        "Type":"Document Type",
+        "Heading":"String",
+        "Date":"DateTime",
+        "Description_url":"",
+        "Description":"Text"
+      }
+    ]
+  },
+
+  {
+    "Tag" : "Vetting_tool",
+    "Videos":[
+      {
+        "Id":" ",
+        "YouTubeVideoId": "Lm2LELU0O04",
+        "Title":"String",
+        "Description_url":"",
+        "Description":"Text"
+      }
+    ],
+  "Documents":[
+      {
+        "Id":" ",
+        "Document_url": "url",
+        "Type":"Document Type",
+        "Heading":"String",
+        "Date":"DateTime",
+        "Description_url":"",
+        "Description":"Text"
+      }
+    ]
+  }
+]
